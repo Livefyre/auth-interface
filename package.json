@@ -1,0 +1,18 @@
+{
+  "name": "auth-interface",
+  "version": "0.0.0",
+  "description": "Auth's public interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "author": "JJ",
+  "license": "MIT",
+  "dependencies": {
+    "bower": "^1.3.8",
+    "tap": "^0.4.12"
+  },
+  "devDependencies": {
+    "requirejs": "^2.1.14"
+  }
+}

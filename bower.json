@@ -1,0 +1,21 @@
+{
+  "name": "auth-interface",
+  "version": "0.0.0",
+  "authors": [
+    "JJ Weber <jjweber@gmail.com>"
+  ],
+  "description": "Auth's public interface",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "auth": "Livefyre/auth#master"
+  }
+}
