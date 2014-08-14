@@ -1,6 +1,6 @@
 {
   "name": "auth-interface",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Auth's public interface",
   "main": "index.js",
   "scripts": {
